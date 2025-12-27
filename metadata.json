@@ -1,0 +1,7 @@
+{
+  "name": "VolleyBoard - Pro Tournament Manager",
+  "description": "A comprehensive volleyball tournament management and live scoring application with real-time score updates, team management, and detailed standings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
